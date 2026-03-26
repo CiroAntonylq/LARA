@@ -1,7 +1,7 @@
 <?php
 // =============================================
-//  MULTIPLICACIÓN DE DOS NÚMEROS
-//  Proyecto: MiAPELLIDO
+//  Multiplicación de DOS Números
+//  Proyecto: LARA Ciro
 // =============================================
 
 function multiplicar($a, $b) {
